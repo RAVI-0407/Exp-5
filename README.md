@@ -16,10 +16,11 @@ To create Student Enrollment System software that will meet the needs of the app
 
 ## ACTIVITY DIAGRAM:
 
-<img width="1213" height="800" alt="image" src="https://github.com/user-attachments/assets/70b41bf2-0064-40dc-8d67-39c34a86b1e0" />
+<img width="753" height="1041" alt="image" src="https://github.com/user-attachments/assets/ebfc6d26-f3ee-4b92-a62f-44538a767130" />
 
 ## CLASS DIAGRAM:
 
+<img width="1213" height="800" alt="image" src="https://github.com/user-attachments/assets/70b41bf2-0064-40dc-8d67-39c34a86b1e0" />
 
 ## COMMUNICATION DIAGRAM:
 
@@ -31,7 +32,7 @@ To create Student Enrollment System software that will meet the needs of the app
 
 ## SEQUENCE DIAGRAM:
 
-![Uploading image.png…]()
+<img width="886" height="752" alt="image" src="https://github.com/user-attachments/assets/5e24ab8f-f320-43cf-b812-b39a211401fb" />
 
 # RESULT:
 
