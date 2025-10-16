@@ -27,9 +27,11 @@ To create Student Enrollment System software that will meet the needs of the app
 
 ## PACKAGE DIAGRAM:
 
+<img width="809" height="657" alt="image" src="https://github.com/user-attachments/assets/4d628a1d-9555-4001-95d7-aac959209267" />
 
 ## SEQUENCE DIAGRAM:
 
+![Uploading image.png…]()
 
 # RESULT:
 
