@@ -21,7 +21,7 @@ Non-Functional Needs: Security, reliability, and an easy-to-use interface.
 Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
 Design database tables for Students, Courses, Enrollment, and Fees.
 
-# DIAGRAMS:
+# UML DIAGRAMS:
 
 ## USE CASE DIAGRAM:
 
