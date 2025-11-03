@@ -6,7 +6,20 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 
 # SRS (Procedure):
 
-To create Student Enrollment System software that will meet the needs of the applicant and help them with student registration, course enrollment, modification in the database, and cancellation of registered courses or enrollment records.
+## Step 1: Problem Identification
+
+Manual student admission and record handling are time-consuming and prone to errors. The system aims to automate student registration, course enrollment, and record management efficiently.
+
+## Step 2: Requirement Analysis
+
+Users: Admin, Staff, and Student.      
+Main Functions: Student registration, course enrollment, fee payment, record updating, and report generation.    
+Non-Functional Needs: Security, reliability, and an easy-to-use interface.
+
+## Step 3: System Design
+
+Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
+Design database tables for Students, Courses, Enrollment, and Fees.
 
 # DIAGRAMS:
 
